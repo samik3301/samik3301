@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/samik3301/samik3301/blob/main/guts-sideview--sitting-in-complete-berserker-armour-as-a-programmerhunched-over-his-computer-wit-857795670.png)
 <h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
 <h3 align="center">A passionate Data Analyst and AI/ML enthusiast from India!</h3>
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **samikx1120@gmail.com**
 
-- ⚡ Fun fact **I'm addicted to music 🎧 and mangas 📚!**
+- ⚡ Fun fact **I'm addicted to music 🎧 and mangas📚!**
 
 <br>
 
@@ -26,7 +25,6 @@
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -45,32 +43,14 @@
 <br>
 <p>&nbsp;<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samik3301&show_icons=true&theme=dark" /></p>
 
-
-
-<img align= "right" width= "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samik3301&theme=dark&layout=compact" /><br><br>
+<img align= "right" width= "39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samik3301&theme=dark&layout=compact" /><br><br>
 
 <p><br><br><br><br><h4 align="center">Trying my best to keep up here!<h4></p><br>
  
-
 <p align = "center"><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samik3301&theme=tokyonight_duo" alt="samik3301" /></p>
 
- 
 <p><br></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samik3301&label=Profile%20views&color=0e75b6&style=flat" alt="samik3301" /> </p>
 
-
 <!--
 **samik3301/samik3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
-
-
-
-
-
-
-
-
