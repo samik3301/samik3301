@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/samik3301/samik3301/blob/main/guts-sideview--sitting-in-complete-berserker-armour-as-a-programmerhunched-over-his-computer-wit-857795670.png)
-<h1 align="center">Heyy ✨, I'm Samik Saraswat</h1>
+<h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
 <h3 align="center">A passionate Data Analyst and AI/ML enthusiast from India!</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -47,12 +47,12 @@
 
 
 
-<img align= "right" width= "37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samik3301&theme=dark&layout=compact" /><br><br>
+<img align= "right" width= "42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samik3301&theme=dark&layout=compact" /><br><br>
 
 <p><br><br><br><br><h4 align="center">Trying my best to keep up here!<h4></p><br>
  
 
-<p align = "center"><img align="center" width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=samik3301&theme=tokyonight_duo" alt="samik3301" /></p>
+<p align = "center"><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samik3301&theme=tokyonight_duo" alt="samik3301" /></p>
 
  
 <p><br></p>
