@@ -1,4 +1,4 @@
-![logo](image.png)
+![logo](/image.png)
 <h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
 <h3 align="center">A passionate Data Analyst and AI/ML enthusiast from India!</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
