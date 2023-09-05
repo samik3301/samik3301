@@ -1,13 +1,13 @@
 ![logo](https://github.com/samik3301/samik3301/blob/main/image-min.png)
 <h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
-<h3 align="center">A passionate Data Analyst and AI/ML enthusiast from India!</h3>
+<h3 align="center">A passionate AI/ML - Data enthusiast from India!</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <br>
 
-- 🌱 I’m currently learning **OpenCV,ROS and Deep Learning.**
+- 🌱 I’m currently learning **OpenCV, PyTorch **
 
-- 💬 Ask me about **AI/ML, R-Programming, Python**
+- 💬 Ask me about **AI/ML, Python**
 
 - 📫 How to reach me **samikx1120@gmail.com**
 
@@ -39,6 +39,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 <br>
 <p>&nbsp;<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samik3301&show_icons=true&theme=dark" /></p>
