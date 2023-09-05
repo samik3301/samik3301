@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **OpenCV, PyTorch **
+- 🌱 I’m currently learning **OpenCV, PyTorch**
 
 - 💬 Ask me about **AI/ML, Python**
 
