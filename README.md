@@ -24,8 +24,9 @@
 <a href="https://www.leetcode.com/samik3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samik3301" height="30" width="40" /></a>
 </p><br>
 
-<h3 align="left">Languages and Tools:</h3>
 <!--
+<h3 align="left">Languages and Tools:</h3>
+
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) done
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) done
@@ -42,7 +43,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) done
 -->
 
-<h3 align="left">Programming Languages: </h3>
+<h3 align="left">Programming Languages </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -53,7 +54,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h3 align="left">ML/DL Tech Stack: </h3>
+<h3 align="left">ML/DL Tech Stack </h3>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -61,11 +62,11 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-<h3 align="left">ML Frameworks: </h3>
+<h3 align="left">ML Frameworks </h3>
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<h3 align="left">Operating Systems and Others: </h3>
+<h3 align="left">Operating Systems and Others </h3>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -77,12 +78,13 @@
 
 
 <br>
-<p>&nbsp;<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samik3301&show_icons=true&theme=dark" /></p>
+<p>&nbsp;<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samik3301&show_icons=true&theme=dark" /></p><br>
 
 <img align= "right" width= "39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samik3301&theme=dark&layout=compact" /><br><br>
 
-<p><br><br><br><h4 align="center">Trying my best to keep up here!<h4></p><br>
+<p><br><br><br><h3 align="center">Design Develop Deploy ✨<h3></p><br> 
  
+
 <p align = "center"><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samik3301&theme=tokyonight_duo" alt="samik3301" /></p>
 
 <p><br></p>
