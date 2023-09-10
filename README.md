@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm addicted to music 🎧 and mangas📚!**
 
+- ✨️ Make it - Work && Right && Fast!
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
