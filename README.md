@@ -1,7 +1,11 @@
 ![logo](https://github.com/samik3301/samik3301/blob/main/image-min.png)
+<p align="center">
+ <img src="https://profile-counter.glitch.me/samik3301/count.svg"/>
+</p>
 <h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
 <h3 align="center">A passionate AI/ML - Data enthusiast from India!</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 
 <br>
 
@@ -90,7 +94,9 @@
 <p align = "center"><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=samik3301&theme=tokyonight_duo" alt="samik3301" /></p>
 
 <p><br></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samik3301&label=Profile views&color=0e75b6&style=flat" alt="samik3301" /> </p>
+
+<p align="center">Let's connect and innovate!</p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samik3301&label=Profile views&color=0e75b6&style=flat" alt="samik3301" /> </p>
 
 
 <!--
