@@ -1,9 +1,16 @@
 ![logo](https://github.com/samik3301/samik3301/blob/main/image-min.png)
+
+<h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
+<h3 align="center">A passionate AI/ML - Data enthusiast from India!</h3>
+<p>
+ <br>
+</p>
 <p align="center">
  <img src="https://profile-counter.glitch.me/samik3301/count.svg"/>
 </p>
-<h1 align="center">Hey ✨, I'm Samik Saraswat</h1>
-<h3 align="center">A passionate AI/ML - Data enthusiast from India!</h3>
+<p>
+ <br>
+</p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
@@ -18,6 +25,8 @@
 - ⚡ Fun fact **I'm addicted to music 🎧 and mangas📚!**
 
 - ✨️ Make it - Work && Right && Fast!
+
+- 📷 Seeking opportunities in Computer Vision domain!
 
 <br>
 
