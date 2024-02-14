@@ -107,12 +107,19 @@
 <p><br></p>
 
 <p align="center">Let's connect and innovate!</p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samik3301&label=Profile views&color=0e75b6&style=flat" alt="samik3301" /> </p>
-
+<!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/samik3301/samik3301/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/samik3301/samik3301/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+-->
+<p align="center"> 
+![Snake animation](https://github.com/samik3301/samik3301/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/samik3301/samik3301/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</p>
 
-!
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samik3301&label=Profile views&color=0e75b6&style=flat" alt="samik3301" /> </p>
+
+
+
 
 <!--
 **samik3301/samik3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
