@@ -111,9 +111,12 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/samik3301/samik3301/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/samik3301/samik3301/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 -->
-<div> 
-![Snake animation](https://github.com/samik3301/samik3301/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<div>
+ ![Snake animation](https://github.com/samik3301/samik3301/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samik3301&label=Profile views&color=0e75b6&style=flat" alt="samik3301" /> </p>
 
