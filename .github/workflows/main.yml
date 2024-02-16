@@ -15,7 +15,7 @@ on:
   # On changes
   push:
     branches:
-      - master
+      - main
 
 # The sequence of runs in this workflow:
 jobs:
@@ -33,7 +33,7 @@ jobs:
       - uses: actions/checkout@v3
 
       # Generates the snake
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@main
         id: snake-gif
         with:
           github_user_name: samik3301
@@ -42,7 +42,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
@@ -54,4 +54,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
